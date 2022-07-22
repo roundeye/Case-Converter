@@ -1,0 +1,24 @@
+.wrap {
+    display: flex;
+    flex-wrap: wrap;
+    width: 800px;
+    height: 250px;
+    margin-right: 10px;
+}
+
+#text {
+    width: 500px;
+    height: 200px;
+    margin-right: 250px;
+    font-size: 20px;
+}
+
+button {
+    margin-right: 10px;
+    background-color: #fd9f7d;
+    border: #fd9f7d;
+}
+
+button:hover {
+    background-color: aqua;
+}
